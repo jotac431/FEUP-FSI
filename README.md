@@ -1,4 +1,4 @@
-Breve descrição do grupo
+FEUP - Fundamentos de Segurança Informática
 
 * Turno: [LM]01
 * Grupo: 06
